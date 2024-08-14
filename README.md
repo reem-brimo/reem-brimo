@@ -2,7 +2,6 @@
 - 👀 I’m interested in AI and Web Application building using Asp.Net
 - 😎 I’m Studying Informatic Technology Engineering
 - 🌱 I’m currently expanding my knowledge in the fildes mentioned above
-- 💞️ I’m looking to collaborate on
 - 📫 you can reach my by sending me an email to reem.b1999@outlook.com
 
 <!---
