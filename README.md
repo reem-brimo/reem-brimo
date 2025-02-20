@@ -28,11 +28,10 @@ I'm a **.NET Backend Developer** with **4+ years** of experience building **ASP.
 ![](https://github-profile-trophy.vercel.app/?username=reem-brimo&theme=merko&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-hi
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 🔝 Top Contributed Repo
-hi
 ![](https://github-contributor-stats.vercel.app/api?username=reem-brimo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
